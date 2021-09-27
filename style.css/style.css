@@ -1,0 +1,97 @@
+/* +++++ header pattern e logo */
+
+.pattern {
+    background-image: url(../img/pattern.png);
+    background-color: rgb(145, 183, 255);
+    background-size: 25%;
+    background-repeat: repeat-x;
+}
+
+.logo {
+    text-align: left;
+    width: 150px;
+    padding-top: 40px;
+    padding-left: 5px;
+    padding-bottom: 5px;
+}
+
+
+/* +++++ header titolo autori e didascalie */
+
+#titolo {
+    font-family: 'Cinzel', serif;
+    
+}
+
+.autori{
+    line-height: 2px;
+}
+
+#scritto-da {
+    color: darkgray;
+    font-size: 20px;
+    
+}
+
+#the-booleaner {
+    color: cornflowerblue;
+    font-size: 20px;
+    
+}
+
+#data {
+    font-family: 'Scheherazade New', serif;
+    color: darkgray;
+    font-size: 15px;   
+}
+
+.dida {
+    font-size: 14px;
+    line-height: 3px;
+    margin-bottom: 30px;
+}
+
+
+
+/* ++++++ main sezione testo */
+
+.evidenziato {
+    background-color: rgb(253, 241, 72);
+}
+
+/* ++++++ main tabella */
+
+#headtabella {
+    background-color: rgb(0, 110, 255);
+    color: white;
+    text-align: left;
+}
+
+.riga-azzurra {
+    background-color: rgb(8, 255, 243);
+    padding: 40px;
+    text-align: left;
+}
+
+#riga-bianca {
+    text-align: left;
+}
+
+/* +++++ footer */
+
+.titolo-footer {
+    color: darkgray;
+}
+
+.monitor{
+    background-image: url(../img/monitor.jpg);
+    width: 300px;
+    height: 200px;
+    color: white;
+    padding-top: 9px;
+    
+    
+    
+    
+}
+
